@@ -65,9 +65,7 @@ void transferMenu()
     float transferAmount = 0.00;
     bool isTrue = true;
     int pin = 0;
-    int password = 123;
-    int count = 0;
-    
+    int password = 123; 
 
 int main()
 {
