@@ -2,7 +2,6 @@
 // Purpose: Program to simulate an ATM application
 // Author:  Dawson Sanders 
 //------------------------------------------------------------
-
 #include <iostream>
 using namespace std;
 
