@@ -1,7 +1,7 @@
-This simple ATM application is a basic, C++ program. I wrote this as a side project on January 1-3 2021. 
+This simple ATM application is a basic C++ program. I wrote this as a side project on January 1 2021. 
 
 PURPOSE:
-- Simulate an ATM application program that simulates as an atm machine
+- Simulate an ATM application program that acts like a atm machine dashboard
 
 TASKS:
 - Make a pin password that the user can use to login to ATM
