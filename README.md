@@ -1,4 +1,5 @@
-#ATM-Project
+# ATM-Project
+
 This simple ATM application is a basic C++ program. I wrote this as a side project on January 1 2021. 
 
 PURPOSE:
